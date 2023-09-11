@@ -1,0 +1,243 @@
+#img{
+  		background-image: url('Labb.jpg');
+  	 	background-repeat: no-repeat; 
+  	    background-size: cover;
+	    height: 100vh;
+	    width: 100%;
+ }
+#h2{
+  		font-size: 50px;
+  		font-weight: bold;
+  		font-family: calibri;
+  		margin-top: 100px;
+  		margin-left: 100px;
+}
+#p1{
+	margin-top: 50px;
+	margin-left: 100px;
+	font-style: Courier new;
+	font-size: 20px;
+	opacity: 0.6;
+}
+#b1{
+	margin-top: 50px;
+	margin-left: 100px;
+	width: 150px;
+
+}
+#b2{
+	margin-top: 50px;
+	border:3px solid blue;
+	width: 150px;
+}
+.h3{
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+	font-family: calibri;
+}
+.p2{
+	text-align: center;
+	opacity: 0.6;
+}
+#img1{
+	margin-left: 150px;
+	height: 400px;
+	width:400px;
+}
+#h4{
+	font-size: 40px;
+	margin-top: 40px;
+	font-weight: bold;
+	text-align: left;
+	font-family: calibri;
+}
+#p3{
+	margin-top: 20px;
+	font-size: 15px;
+	opacity: 0.6;
+	font-style: italic;
+}
+.list{
+	margin-top: 50px;
+	font-family: cursive;
+	font-size: 15px;
+}
+#h5{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	font-family: calibri;
+	margin-left: 50px;
+	margin-bottom: 20px;
+}
+.p4{
+	font-size: 15px;
+	opacity: 0.6;
+	font-style: italic;
+	margin-left: 50px;
+}
+#b3{
+	margin-left: 100px;
+	width: 200px;
+	margin-top: 50px;
+}
+#b4{
+	margin-left: 200px;
+	margin-top: 50px;
+	width:200px;
+	border: 3px solid blue;
+}
+#img2{
+	height: 300px;
+	width:500px;
+}
+#h6{
+	margin-top: 50px;
+	font-size: 40px;
+	text-align: center;
+	font-family: calibri;
+}
+#p5{
+	margin-top: 30px;
+	text-align: center;
+	opacity: 0.6;
+}
+.h7{
+	margin-top: 20px;
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 30px;
+}
+.p6{
+	margin-left: 40px;
+	opacity: 0.6;
+}
+#img3{
+	height: 300px;
+	width:500px;
+	margin: 70px;
+}
+#h8{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: calibri;
+	text-align: left;
+	margin-top: 50px;
+}
+#p7{
+	opacity: 0.6;
+	font-size: 15px;
+	margin-top: 30px;
+}
+#h9{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: times new roman;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+#f1{
+	margin-top: 30px;
+	margin-left: 50px;
+}
+#f2{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+#f3{
+	margin-top: 30px;
+	margin-left: 50px;
+}
+#f4{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+#b5{
+	margin-top: 30px;
+	width:200px;
+	margin-left: 50px;
+}
+#b6{
+	width:200px;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+#b7{
+	margin-top: 30px;
+	margin-left: 50px;
+	width:400px;
+}
+#img4{
+	height: 400px;
+	width:500px;
+}
+#img5{
+	height: 400px;
+	width:300px;
+	margin-left: 50px;
+}
+#h10{
+	font-weight: bold;
+	font-size: 40px;
+	text-align: left;
+	margin-left: 40px;
+	margin-top: 50px;
+}
+#h11{
+	margin-left: 40px;
+	opacity: 0.7;
+}
+/*.hr{
+	background-color: darkmagenta;
+
+}*/
+#b8{
+	margin-top: 50px;
+	width:700px;
+}
+#b9{
+	margin-top: 10px;
+	width:700px;
+}
+#b10{
+	margin-top: 10px;
+	width:700px;
+}
+#b11{
+	margin-top: 10px;
+	width:700px;
+}
+#b12{
+	margin-top: 10px;
+	width:700px;
+}
+#img6{
+	height: 600px;
+	width:700px;
+}
+#card{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+#p8{
+	text-align: center;
+	font-size: 20px;
+	opacity: 0.7;
+}
+#h12{
+	margin-top: 50px;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+	font-family: cambria;
+}
+#b13{
+	margin-left: 250px;
+}
+#h13{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: cursive;
+	text-align: center;
+}
